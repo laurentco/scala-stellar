@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "scala",
+            "request": "launch",
+            "name": "BasicTransaction",
+            "mainClass": "com.altaworks.st.BasicTransaction",
+            "args": [],
+            "jvmOptions": [],
+            "env": {}
+        }
+    ]
+}
